@@ -1,2 +1,2 @@
 # SASS
-Simple framework for projects using sass.
+Simple sass structure.
