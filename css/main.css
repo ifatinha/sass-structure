@@ -1,0 +1,60 @@
+/*Import colors*/
+/*Import common*/
+.container {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+.title {
+  font-size: 2.4rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.hr {
+  background-color: #e0ca3c;
+  border: none;
+  content: "";
+  height: 1px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  width: 100%;
+}
+
+.btn {
+  background-color: #3e2f5b;
+  border: none;
+  color: #e0ca3c;
+  cursor: pointer;
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+  margin-bottom: 1rem;
+  padding: 10px 0;
+  text-transform: uppercase;
+  width: 30%;
+}
+.btn :hover {
+  background-color: #e0ca3c;
+  color: #3e2f5b;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*Import cadastro*/
+.cadastro {
+  color: blue;
+  font-family: "Tahoma";
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+}
+
+/*Import login*/
+.paragraph p {
+  color: #3e2f5b;
+  font-family: Arial;
+  font-size: 1.2rem;
+}
+
+/*# sourceMappingURL=main.css.map */

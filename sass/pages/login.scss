@@ -1,0 +1,5 @@
+.paragraph {
+    p {
+        @include texts-style($btn-background, Arial, 1.2rem);
+    }
+}
